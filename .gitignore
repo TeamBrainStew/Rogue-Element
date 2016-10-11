@@ -217,6 +217,7 @@ pip-log.txt
 
 #UE4 Files
 /Binaries
+/DerivedDataCache
 /Intermediate
 /Saved
 
